@@ -13,6 +13,7 @@
  *   http://www.gnu.org/licenses/gpl.html
  *
  */
+
 (function ($) {
   var rEscape = /[\-\[\]{}()*+?.,\\\^$|#\s]/g;
 
